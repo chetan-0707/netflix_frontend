@@ -1,4 +1,4 @@
-export const API_END_POINT ="https://netflix-backend-1-1pr5.onrender.com/api/v1/user";
+export const API_END_POINT ="https://netflix-backend-11-7xbm.onrender.com/api/v1/user";
 export const Now_Playing_Movie ="https://api.themoviedb.org/3/movie/now_playing";
 export const Popular_Movie ="https://api.themoviedb.org/3/movie/popular";
 export const Top_Rated_Movie ="https://api.themoviedb.org/3/movie/top_rated";
